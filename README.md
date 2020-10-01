@@ -1,3 +1,4 @@
+nice readme table
 # Amazon Kinesis Client Library for Python
 
 This package provides an interface to the Amazon Kinesis Client Library (KCL) MultiLangDaemon,
